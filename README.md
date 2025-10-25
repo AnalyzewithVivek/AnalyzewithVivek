@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size: 40px; font-weight: bold;"> Hi, I'm <span style="color:#ff5733;">Vivek Kumar</span></h1>
 
 <p align="center">
-  <strong><span style="font-size: 28px;">From Python to Pivot Table — I craft narratives that drive action.</span></strong>
+  <strong><span style="font-size: 28px;">From Pivot Table to python — I craft narratives that drive action.</span></strong>
 </p>
 
 <p align="center">
